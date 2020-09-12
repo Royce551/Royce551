@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- ![best catgirl](https://img2.gelbooru.com/images/61/8e/618e759b9a621212ac1a7d7e9da04f88.gif)
+- Your average weeb kid. I program in C# and Python. (mostly C# these days)
+## Current Projects
+- 🎶 FRESHMusicPlayer and FRESHMusicPlayer Core
+- 🦐 Shrimpbot
 <!--
 **Royce551/Royce551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
