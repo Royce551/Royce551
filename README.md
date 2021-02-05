@@ -4,6 +4,7 @@ I program in C# and Python (mostly C#). I'm also a proud weeb and deep into the 
 ## Current Projects
 - 🎶 FRESHMusicPlayer and FRESHMusicPlayer Core
 - 🦐 Shrimpbot
+- 🔽 Condownloader
 <!--
 **Royce551/Royce551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
