@@ -1,6 +1,7 @@
 ### Hi there 👋
-C# programmer (and Python, in the past) and proud weeb
+C# programmer (and Python, in the past) and proud weeb  
 ![best catgirl](https://img3.gelbooru.com/images/61/8e/618e759b9a621212ac1a7d7e9da04f88.gif)
+
 ## Current Projects
 - 🎶 FRESHMusicPlayer and FRESHMusicPlayer Core
 - 🦐 Shrimpbot
