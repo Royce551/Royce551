@@ -1,9 +1,10 @@
 ### Hi there 👋
-I program in C# and Python (mostly C#). I'm also a proud weeb and deep into the vtuber hole.\
-![best catgirl](https://img2.gelbooru.com/images/61/8e/618e759b9a621212ac1a7d7e9da04f88.gif)
+C# programmer (and Python, in the past) and proud weeb
+![best catgirl](https://img3.gelbooru.com/images/61/8e/618e759b9a621212ac1a7d7e9da04f88.gif)
 ## Current Projects
 - 🎶 FRESHMusicPlayer and FRESHMusicPlayer Core
 - 🦐 Shrimpbot
+- 📷 Squidphotos
 - 🔽 Condownloader
 <!--
 **Royce551/Royce551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
