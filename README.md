@@ -4,8 +4,8 @@ C# programmer (and Python, in the past) and proud weeb
 
 ## Current Projects
 - 🎶 FRESHMusicPlayer and FRESHMusicPlayer Core
-- 🦐 Shrimpbot
-- 📷 Squidphotos
+- 🐧 squish
+- 🎤 SquidLyricMaker
 - 🔽 Condownloader
 <!--
 **Royce551/Royce551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
